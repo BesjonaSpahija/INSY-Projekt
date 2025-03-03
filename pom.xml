@@ -14,11 +14,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <!-- Das sind die dependencies die ich fur den postgresql hinzugefugt habe-->
     <dependencies>
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.5.0</version> <!-- Ersetze dies mit der neuesten Version, wenn erforderlich -->
+            <version>42.5.0</version>
         </dependency>
     </dependencies>
 
